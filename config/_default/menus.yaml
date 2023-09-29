@@ -1,0 +1,30 @@
+leftnav:
+- identifier: 334f93d7-e01d-9349-d487-2396239bb8de
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 0c9f3d01-8824-b182-41de-587eabf250a5
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 834e6693-16c1-3899-2a8f-d8238e895975
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: f55a5684-e96e-b7fb-c96b-1414d7da8bd3
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes/
+  weight: 40
+- identifier: 7b73a871-4d82-c282-d85a-4fe230ffaf62
+  name: Case Studies
+  pageRef: /pages/lecture-notes/case-studies
+  parent: f55a5684-e96e-b7fb-c96b-1414d7da8bd3
+  weight: 50
+- identifier: f944e678-2f89-e102-851d-452b088f2943
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 60
+- identifier: a3819358-3718-77a7-7893-7f7673f16e46
+  name: Projects
+  pageRef: /pages/projects
+  weight: 70
